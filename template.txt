@@ -1,0 +1,10 @@
+backupdir=/apps/backup03
+dbuser=bkp01
+dbpwd=ta_123
+remoteip=134.96.252.102
+remoteuser=apps
+remotepwd=ta_123
+remotedir=/apps/backup03
+
+
+
